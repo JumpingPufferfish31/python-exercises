@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "mypy.dmypyExecutable": "${workspaceFolder}\\venv\\Scripts\\dmypy.exe",
+    "[python]": {
+        "editor.formatOnSave": true
+    }
+}
