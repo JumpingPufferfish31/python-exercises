@@ -4,6 +4,8 @@ Just a personal repository for practicing Python and general coding.
 
 ## Exercises
 
+- [LeetCode](https://leetcode.com/problemset/)
+  - [NeetCode](https://neetcode.io/practice/practice/neetcode150)
 - [Project Euler](https://projecteuler.net/archives)
 
 ## Setup

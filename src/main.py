@@ -4,7 +4,7 @@ from importlib import import_module
 
 def main() -> None:
     parser = ArgumentParser(description="Just another Python exercise.")
-    parser.add_argument("exercise", choices=['project_euler'])
+    parser.add_argument("exercise", choices=['project_euler', 'leetcode'])
     parser.add_argument("number", type=int)
     args = parser.parse_args()
 
